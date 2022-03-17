@@ -6,14 +6,10 @@ in the heroku is a api products crud , create,read,update,delete,
 I made this project in 2020 .
 
 # sample-node-api  
-A sample node js api for finding cars and accounts for a dealership,its used here to demonstrate the steps to extend API/ML with your own rest api.     
+A sample node js api for finding Products and edit and delete products    
 
 ## Steps
-
-**Note**  
-`Only rest api with https support can be deployed behind API/ML, make sure to enable https support in your rest api.
-`   
-This sample express app, has https enabled already.    
+    
 
 ## PART I: Download & Build on local
 
