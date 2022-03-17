@@ -52,17 +52,16 @@ mongoose.connect(
 
 ## PART 3: start api
 
-``` 
-npm run start 
+``` npm run start ```
 
-```
  ### 1) acess the url using postman insomnia or google chrome
 
-    **API List Products**  
+    **API List Products**
+    
   ![npm](./screenshots/api_get.jpg)
-  ```
-        http://localhost:3001/
-  ```
+  
+  ```http://localhost:3001/ ```
+
 
    **To List Porduct by Id**
    ```  
