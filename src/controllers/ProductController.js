@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 const Product = mongoose.model('Product');
-
+//controller Api
 module.exports = {
     async index(req,res){
         const { page = 1 } = req.query;

@@ -5,8 +5,14 @@ const requireDir = require('require-dir');
 
 
 const app = express();
+
+//express JSON.data
 app.use(express.json());
+
+// start cors
 app.use(cors());
+
+//mongo connection 
 mongoose.connect(
      '',
      {useNewUrlParser: true}
