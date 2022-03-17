@@ -64,7 +64,7 @@ npm run start
         http://localhost:3001/
   ```
 
-   ** To List Porduct by Id **
+   **To List Porduct by Id**
    ```  
         http://localhost:3001/:id
         
@@ -72,12 +72,12 @@ npm run start
    ```
 
 
-   ** To Create Product **
+   **To Create Product**
     ![npm](./screenshots/api_post.jpg)
 
 
 
-   ** Edit Product **
+   **Edit Product**
         ![npm](./screenshots/api_put.jpg)
    ```  
         http://localhost:3001/:id
@@ -88,7 +88,7 @@ npm run start
       
    ```
 
-     ** Delete Product **
+     **Delete Product**
    ```  
         http://localhost:3001/:id
         
