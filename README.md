@@ -78,23 +78,27 @@ mongoose.connect(
 
    **Edit Product**
         ![npm](./screenshots/api_put.jpg)
+        
    ```  
         http://localhost:3001/:id
         
         example: http://localhost:3001/5f7d03fc7be5cf0017bf26a
 
-        use insomnia or postman and Edit by id and body remember to use method put
-      
+        use insomnia or postman and Edit by id and body remember to use method put  
    ```
 
-     **Delete Product**
-   ```  
+   **Delete Product**
+     
+    
+    
+    
+         ```  
         http://localhost:3001/:id
         
         example: http://localhost:3001/5f7d03fc7be5cf0017bf26a
 
-        use insomnia or postman and delete by id remember to method delete
-   ```
+        use insomnia or postman and delete by id remember to method delete 
+        ```
 
 
 
