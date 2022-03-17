@@ -14,8 +14,8 @@ app.use(cors());
 
 //mongo connection 
 mongoose.connect(
-     '',
-     {useNewUrlParser: true}
+     'mongodb+srv://<deploy>:<password>@cluster0.umtu1.mongodb.net/<dbname>?retryWrites=true&w=majority',
+     {useNewUrlParser: true,useUnifiedTopology: true}
      );
      requireDir('./src/models/');
 
